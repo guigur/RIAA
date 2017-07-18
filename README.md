@@ -1,2 +1,2 @@
 # RIAA
-Simple RIAA pream based on the MAKE: one
+Simple RIAA preamp based on the MAKE: one
